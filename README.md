@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> Subproject commit c4f5478190767a9457086a55d89d7b6fa330fc01
+> يا نور قلبي في هذا المساء
+> أنت غرامي وكل الرجاء
+> أذوب شوقا في سحر العيون
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
