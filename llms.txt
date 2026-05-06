@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/hob-el-omr-leek-love-of-a-lifetime-for-you/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Commercial Licensing for Hob El Omr Leek – Love of a Lifetime for You](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
